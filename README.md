@@ -29,5 +29,5 @@ The data is now ready.
 
 ### 2. Running the Visualisation
 
-Run "Vulnerability_Mapping.R". Run the setup sectioin first and then choose whichever visualisation is necessary and run that
+Run "Vulnerability_Mapping.R". Run the setup section first and then choose whichever visualisation is necessary and run that
 section of code.
