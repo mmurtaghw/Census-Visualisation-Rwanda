@@ -1,7 +1,7 @@
 # Coronavirus-Vulnerability-Rwanda
 Visualising Risk Factors of Covid-19 in Rwanda
 
-###1. Preparing Data
+### 1. Preparing Data
 
 This project thus far uses two sources of data, which can be downloaded here:
 
@@ -25,7 +25,7 @@ To prepare this data for visualisation:
 
 The data is now ready.
 
-###2. Running the Visualisation
+### 2. Running the Visualisation
 
 Run "Vulnerability_Mapping.R". Run the setup sectioin first and then choose whichever visualisation is necessary and run that
 section of code.
