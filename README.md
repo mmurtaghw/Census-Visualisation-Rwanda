@@ -8,6 +8,8 @@ This project thus far uses two sources of data, which can be downloaded here:
 1. Rwanda 2012 census microdata - https://microdata.statistics.gov.rw/index.php/catalog/65/related_materials
 2. Rwanda sector level shapefile - https://datacatalog.worldbank.org/dataset/rwanda-admin-boundaries-and-villages/resource/2774ebf5-5b3e-43c1-912f-e2cee945d841
 
+Note that you will need access to NADA in order to download the census microdata.
+
 Unzip any compressed files and place them in the /data file of the project directory.
 
 Rwanda has four subdivisions for administrative/statistical purposes. These are Provinces, Districts, Sectors and Cells. The data here 
