@@ -1,5 +1,5 @@
-# Coronavirus-Vulnerability-Rwanda
-Visualising Risk Factors of Covid-19 in Rwanda
+# Census-Visualisation-Rwanda
+Visualising 2012 census data associated with Covid-19 in Rwanda
 
 ### 1. Preparing Data
 
